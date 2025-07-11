@@ -4,15 +4,15 @@
 > 🧠 "I don't just store data... I **normalize**, **query**, and **index** it like it's poetry." 😎
 
 - 🎓 Master’s student | 💼 Exploring real-world applications of data
-- 💡 Currently working on:
-  - 📚 StudyMate Android App (Java + Firebase)
-  - 🎙️ Voice Assistant Desktop Tool (Python)
-- 🧠 Learning: SQL optimization, Firebase auth, Power BI dashboards
+- 💡 Currently working on (projects):
+  - Power Bi Dashboards
+  - Microsoft SQl
+- 🧠 Learning: SQL optimization, ETL, SSIS, SSRS, SSAS
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** SQL, Python, Java, PHP
+- **Languages:** SQL, Java, Python, PHP
 - **Databases:** MySQL, Oracle, MS SQL Server, Firebase
 - **Tools:** XAMPP, IntelliJ, Power BI, Tableau, MS Project, Android Studio
 
